@@ -15,7 +15,7 @@
 # cat charge_logo.h >> logo_rgb24_wvga_portrait_custom.h
 
 #defines
-DST_FILE="logo_rgb24_wvga_portrait_custom.h"
+DST_FILE="logo_rgb24_cust.h"
 BOOT_LOGO="custom_boot_logo.h"
 CHARGE_LOGO="charge_logo.h"
 BOOT_BINARY="makebootlogo"
